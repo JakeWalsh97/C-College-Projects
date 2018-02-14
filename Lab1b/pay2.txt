@@ -1,0 +1,16 @@
+Employee Number: 1
+Name:		 Jake Walsh
+Old Salary:	 $50000
+Back Pay:	 $3800
+Annual Salary:	 $53800
+Monthly Salary:	 $4483.33
+==========================
+Employee Number: 2
+Name:		 Declan Thomas
+Old Salary:	 $60000
+Back Pay:	 $4560
+Annual Salary:	 $64560
+Monthly Salary:	 $5380
+==========================
+Number of employees: 2
+Total back pay: $8360

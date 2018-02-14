@@ -1,0 +1,12 @@
+Employee 1
+Name: Jake
+Age: 20
+Address: c
+Salary: 200
+============================
+Employee 2
+Name: d
+Age: 2
+Address: r
+Salary: 500
+Total Salary of both employees: 700

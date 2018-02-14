@@ -1,0 +1,5 @@
+﻿  main.cpp
+  StudentListNode.cpp
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\ca2practice\studentlistnode.h(16): error C3646: 'stu': unknown override specifier
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\ca2practice\studentlistnode.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...

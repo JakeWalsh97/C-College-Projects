@@ -1,0 +1,14 @@
+﻿  main.cpp
+  ListOfDoubles.cpp
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\doublelistnode.h(14): error C3646: 'dou': unknown override specifier
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\doublelistnode.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\listofdoubles.cpp(33): error C2039: 'dou': is not a member of 'DoubleListNode'
+  c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\doublelistnode.h(8): note: see declaration of 'DoubleListNode'
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\listofdoubles.cpp(33): error C2228: left of '.getData' must have class/struct/union
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\listofdoubles.cpp(66): error C2039: 'data': is not a member of 'DoubleListNode'
+  c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\doublelistnode.h(8): note: see declaration of 'DoubleListNode'
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\listofdoubles.cpp(74): error C2039: 'data': is not a member of 'DoubleListNode'
+  c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\listofemployees\doublelistnode.h(8): note: see declaration of 'DoubleListNode'
+  DoubleListNode.cpp
+  Doubles.cpp
+  Generating Code...

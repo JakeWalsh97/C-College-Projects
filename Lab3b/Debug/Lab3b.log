@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab3b\main.cpp(77): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab3b\main.cpp(84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab3b.vcxproj -> C:\Users\Jake\Desktop\College Year 3\Sem5\Algorithms and Data Structures\C++ Folder\Lab3b\Debug\Lab3b.exe
+  Lab3b.vcxproj -> C:\Users\Jake\Desktop\College Year 3\Sem5\Algorithms and Data Structures\C++ Folder\Lab3b\Debug\Lab3b.pdb (Partial PDB)

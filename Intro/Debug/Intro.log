@@ -1,0 +1,5 @@
+﻿  intro.cpp
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\intro\intro.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\intro\intro.cpp(92): warning C4101: 'myFavNums': unreferenced local variable
+  Intro.vcxproj -> C:\Users\Jake\Desktop\College Year 3\Sem5\Algorithms and Data Structures\C++ Folder\Intro\Debug\Intro.exe
+  Intro.vcxproj -> C:\Users\Jake\Desktop\College Year 3\Sem5\Algorithms and Data Structures\C++ Folder\Intro\Debug\Intro.pdb (Partial PDB)

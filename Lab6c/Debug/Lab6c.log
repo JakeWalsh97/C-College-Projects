@@ -1,0 +1,12 @@
+﻿  Employee.cpp
+  Generating Code...
+  Compiling...
+  ListOfEmployees.cpp
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6c\listofemployees.cpp(53): warning C4553: '==': operator has no effect; did you intend '='?
+  EmployeeListNode.cpp
+  Generating Code...
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6c\listofemployees.cpp(57): warning C4715: 'ListOfEmployees::getSalary': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Lab6c.vcxproj -> C:\Users\Jake\Desktop\College Year 3\Sem5\Algorithms and Data Structures\C++ Folder\Lab6c\Debug\Lab6c.exe
+  Lab6c.vcxproj -> C:\Users\Jake\Desktop\College Year 3\Sem5\Algorithms and Data Structures\C++ Folder\Lab6c\Debug\Lab6c.pdb (Partial PDB)

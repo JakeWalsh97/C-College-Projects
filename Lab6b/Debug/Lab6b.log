@@ -1,0 +1,12 @@
+﻿  main.cpp
+  ListOfDoubles.cpp
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6b\doublelistnode.h(14): error C2079: 'DoubleListNode::d' uses undefined class 'Doubles'
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6b\listofdoubles.cpp(33): error C2228: left of '.getData' must have class/struct/union
+  c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6b\listofdoubles.cpp(33): note: type is 'int'
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6b\listofdoubles.cpp(66): error C2039: 'data': is not a member of 'DoubleListNode'
+  c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6b\doublelistnode.h(8): note: see declaration of 'DoubleListNode'
+c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6b\listofdoubles.cpp(74): error C2039: 'data': is not a member of 'DoubleListNode'
+  c:\users\jake\desktop\college year 3\sem5\algorithms and data structures\c++ folder\lab6b\doublelistnode.h(8): note: see declaration of 'DoubleListNode'
+  Doubles.cpp
+  DoubleListNode.cpp
+  Generating Code...
