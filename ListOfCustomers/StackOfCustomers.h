@@ -15,6 +15,7 @@ public:
 	void push(string name, int age, string phone, string accNum, double balance);
 	void pop();
 	string top();
+	void displayStack() const;
 	friend ostream & operator<<(ostream &out, const StackOfCustomers &stackObj);
 	StackOfCustomers(StackOfCustomers &s);
 	const StackOfCustomers & StackOfCustomers::operator=(StackOfCustomers&);

@@ -14,14 +14,14 @@ int main() {
 	l.insertAtFront("Jake", 20, "0879592297", "x00129654", 2000.00);
 	l.insertAtFront("Deco", 21, "0871234567", "x00131110", 1500.00);
 	l.insertAtFront("Jim", 24, "08798765432", "x00130180", 2400.00);
-	cout << "======================================" << endl;
+	cout << "==================================================" << endl;
 	cout << "3 entries added to the list" << endl;
 
 	l.display();
 
 	cout << "Calling getBalance() on Jake" << endl;
 	cout << "Balance of Jake: $" << l.getBalance("Jake") << endl;
-	cout << "======================================" << endl;
+	cout << "==================================================" << endl;
 
 	l.deleteMostRecent();
 	cout << "Contents of l1 after operator= and deleting Jake" << endl;
@@ -63,6 +63,9 @@ int main() {
 	s2 = s1;
 	cout << "Contents of new list: " << endl;
 	cout << s2;
+
+	cout << "Calling stack display() method" << endl;
+	s2.displayStack();
 
 	system("pause");
 

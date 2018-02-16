@@ -34,6 +34,18 @@ string StackOfCustomers::top() {
 	return lc.head->cust.getName();
 }
 
+void StackOfCustomers::displayStack() const
+{
+	CustomerListNode* tempPtr = lc.head;
+	while (tempPtr != NULL) {
+		cout << "Name: \t\t\t" << tempPtr->cust.getName() << "\nAge: \t\t\t" << tempPtr->cust.getAge() <<
+			"\nPhone Number: \t\t" << tempPtr->cust.getPhone() << "\nAccount Number: \t" << tempPtr->cust.getAccNum()
+			<< "\nBalance: \t\t$" << tempPtr->cust.getBalance() << endl;
+		cout << "==================================================" << endl;
+		tempPtr = tempPtr->next;
+	}
+}
+
 StackOfCustomers::StackOfCustomers(StackOfCustomers & s)
 {
 	*this = s;
